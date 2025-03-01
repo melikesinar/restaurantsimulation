@@ -1,0 +1,6 @@
+Sipariş Numarası: 10
+Müşteri: Ayşe Hanım
+Garson: Ahmet Bey
+Yemek: -
+İçecek: Kola - 20.0
+Tarih: Sat May 18 17:01:30 TRT 2024

@@ -1,0 +1,6 @@
+Sipariş Numarası: 3
+Müşteri: Kaan Bey
+Garson: Serkan Bey
+Yemek: Pepperoni - 130.0
+İçecek: -
+Tarih: Sat May 18 17:01:30 TRT 2024

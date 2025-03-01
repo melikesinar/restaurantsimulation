@@ -1,0 +1,6 @@
+Sipariş Numarası: 2
+Müşteri: Kaan Bey
+Garson: Nazlı Hanım
+Yemek: -
+İçecek: Ayran - 10.0
+Tarih: Sat May 18 17:01:30 TRT 2024

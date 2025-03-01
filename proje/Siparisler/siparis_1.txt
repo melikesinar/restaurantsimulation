@@ -1,0 +1,6 @@
+Sipariş Numarası: 1
+Müşteri: Selin Hanım
+Garson: Serkan Bey
+Yemek: -
+İçecek: Kola - 15.0
+Tarih: Sat May 18 17:01:30 TRT 2024

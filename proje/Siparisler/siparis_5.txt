@@ -1,0 +1,6 @@
+Sipariş Numarası: 5
+Müşteri: Selin Hanım
+Garson: Ahmet Bey
+Yemek: BigMac - 120.0
+İçecek: -
+Tarih: Sat May 18 17:01:30 TRT 2024
